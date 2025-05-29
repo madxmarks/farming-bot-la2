@@ -1,0 +1,4 @@
+delete binding key
+porpper conditioning on keys 
+capture window and monitor it
+pause start bot
