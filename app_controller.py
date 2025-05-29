@@ -1,8 +1,8 @@
 import threading
 import time
-from hp_detector import HPDetector
-from key_binding import KeyManager
-from arduino_sender import ArduinoSender
+from utils.hp_detector import HPDetector
+from utils.key_binding import KeyManager
+from utils.arduino_sender import ArduinoSender
 import win32gui
 
 class AppController:

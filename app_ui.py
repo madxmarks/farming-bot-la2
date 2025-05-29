@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
-from window_selector import list_windows
-from region_selector import RegionSelector
+from utils.window_selector import list_windows
+from utils.region_selector import RegionSelector
 from app_controller import AppController
 
 class AppUI:
